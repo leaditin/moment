@@ -1,6 +1,6 @@
 # Contributing
 
-We accept contributions via Pull Requests on [Github](https://github.com/Leaditin-education/moment).
+We accept contributions via Pull Requests on [Github](https://github.com/leaditin/moment).
 
 ## Running tests
 

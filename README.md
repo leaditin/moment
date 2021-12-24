@@ -13,7 +13,7 @@ A simple PHP API for Time, DateTime and DateRange.
 The preferred method of installation is via [Composer](http://getcomposer.org/). Run the following command to install the latest version of a package and add it to your project's `composer.json`:
 
 ```bash
-composer require Leaditin-education/moment
+composer require leaditin/moment
 ```
 
 ## Usage
@@ -54,15 +54,15 @@ $infinity = new DateRange();
 Released under MIT License - see the [License File](LICENSE) for details.
 
 
-[ico-version]: https://img.shields.io/packagist/v/Leaditin-education/moment.svg
-[ico-build]: https://travis-ci.org/Leaditin-education/moment.svg?branch=master
-[ico-code-coverage]: https://img.shields.io/scrutinizer/coverage/g/Leaditin-education/moment.svg
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/Leaditin-education/moment.svg
+[ico-version]: https://img.shields.io/packagist/v/leaditin/moment.svg
+[ico-build]: https://travis-ci.org/leaditin/moment.svg?branch=master
+[ico-code-coverage]: https://img.shields.io/scrutinizer/coverage/g/leaditin/moment.svg
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/leaditin/moment.svg
 [ico-pds]: https://img.shields.io/badge/pds-skeleton-blue.svg
 
-[link-packagist]: https://packagist.org/packages/Leaditin-education/moment
-[link-build]: https://travis-ci.org/Leaditin-education/moment
-[link-code-coverage]: https://scrutinizer-ci.com/g/Leaditin-education/moment/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/Leaditin-education/moment
+[link-packagist]: https://packagist.org/packages/leaditin/moment
+[link-build]: https://travis-ci.org/leaditin/moment
+[link-code-coverage]: https://scrutinizer-ci.com/g/leaditin/moment/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/leaditin/moment
 [link-pds]: https://github.com/php-pds/skeleton
 [link-contributors]: ../../contributors
